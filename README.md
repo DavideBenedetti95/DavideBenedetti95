@@ -1,11 +1,10 @@
 ### Benvenuto sul mio profilo 👋
 
-![](https://komarev.com/ghpvc/?username=DavideBenedetti95)
+![](https://komarev.com/ghpvc/?username=DavideBenedetti95&color=blueviolet)
 
 <!--
 **DavideBenedetti95/DavideBenedetti95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://komarev.com/ghpvc/?username=DavideBenedetti95)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
