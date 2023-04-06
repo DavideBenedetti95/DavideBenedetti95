@@ -1,5 +1,7 @@
+![](https://komarev.com/ghpvc/?username=DavideBenedetti95&color=blueviolet)
 
 <h1 align="center">Ciao e Benvenuto sul mio profilo 👋<h1/>
+
 <p align="center">
 Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme ai miei contatti e i progetti che sto portando avanti. Buon Proseguimento :star_struck:
 </p>
@@ -7,7 +9,7 @@ Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme 
 <p align="center">
   <img width="460" height="300" src="/media/default.gif">
 </p>
-
+ 
 ## Qualche info in piu':
 - 🔭 Attualmente sto lavorando ad un progetto chiamato Couchify. per migliorare le mie competenze da full stack developer. A breve rendero' la repository pubblica
 
