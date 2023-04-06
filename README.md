@@ -1,8 +1,10 @@
-### Ciao e Benvenuto sul mio profilo 👋
+<html>
+<h1 align="center">Ciao e Benvenuto sul mio profilo 👋<h1/>
+<p align="center">
+Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme ai miei contatti. Buon Proseguimento :star_struck:
+</p>
 
-Sono un full stack developer con la passione per i videogiochi, la tecnologia e l'informatica.
 
-![](https://github.com/DavideBenedetti95/media/default.gif)
 
 ![](https://komarev.com/ghpvc/?username=DavideBenedetti95&color=blueviolet)
 
@@ -27,3 +29,5 @@ Sono un full stack developer con la passione per i videogiochi, la tecnologia e 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</html>
