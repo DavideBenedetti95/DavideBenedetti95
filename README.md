@@ -2,6 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=DavideBenedetti95&color=blueviolet)
 
+## 🛠 Front End Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+
+## 🛠 Back End Skills
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
+
+## 🛠 Tools 
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 <!--
 **DavideBenedetti95/DavideBenedetti95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
