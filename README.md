@@ -1,4 +1,8 @@
-### Benvenuto sul mio profilo 👋
+### Ciao e Benvenuto sul mio profilo 👋
+
+Sono un full stack developer con la passione per i videogiochi, la tecnologia e l'informatica.
+
+
 
 ![](https://komarev.com/ghpvc/?username=DavideBenedetti95&color=blueviolet)
 
