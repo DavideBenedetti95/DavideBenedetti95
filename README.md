@@ -1,5 +1,7 @@
 ### Benvenuto sul mio profilo 👋
 
+![](https://komarev.com/ghpvc/?username=DavideBenedetti95)
+
 <!--
 **DavideBenedetti95/DavideBenedetti95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
