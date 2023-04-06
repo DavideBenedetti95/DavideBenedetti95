@@ -1,12 +1,19 @@
-<html>
+
 <h1 align="center">Ciao e Benvenuto sul mio profilo 👋<h1/>
 <p align="center">
-Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme ai miei contatti. Buon Proseguimento :star_struck:
+Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme ai miei contatti e i progetti che sto portando avanti. Buon Proseguimento :star_struck:
 </p>
 
+<p align="center">
+  <img width="460" height="300" src="/media/default.gif">
+</p>
 
+## Qualche info in piu':
+- 🔭 Attualmente sto lavorando ad un progetto chiamato Couchify. per migliorare le mie competenze da full stack developer. A breve rendero' la repository pubblica
 
-![](https://komarev.com/ghpvc/?username=DavideBenedetti95&color=blueviolet)
+- 🌱 Attualmente sto imparando React.
+
+- 📫 Se vuoi contattarmi: davidebenedetti1995@gmail.com
 
 ## 🛠 Front End Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
@@ -30,4 +37,4 @@ Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme 
 - ⚡ Fun fact: ...
 -->
 
-</html>
+
