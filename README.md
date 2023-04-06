@@ -24,7 +24,7 @@ Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
 
 ## 🛠 Tools 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bash)](https://skillicons.dev)
 <!--
 **DavideBenedetti95/DavideBenedetti95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
