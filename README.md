@@ -11,7 +11,7 @@ Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme 
 </p>
  
 ## Qualche info in piu':
-- 🔭 Attualmente sto lavorando ad un progetto chiamato Couchify. per migliorare le mie competenze da full stack developer. A breve rendero' la repository pubblica
+- 🔭 Attualmente sto lavorando ad un progetto chiamato Presto.it per migliorare le mie competenze da full stack developer. A breve rendero' la repository pubblica
 
 - 🌱 Attualmente sto imparando React.
 
