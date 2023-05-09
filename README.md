@@ -6,9 +6,10 @@
 Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme ai miei contatti e i progetti che sto portando avanti. Buon Proseguimento :star_struck:
 </p>
 
-<p align="center">
-  <img width="460" height="300" src="/media/default.gif">
-</p>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
  
 ## Qualche info in piu':
 - 🔭 Attualmente sto lavorando ad un progetto chiamato Presto.it per migliorare le mie competenze da full stack developer. A breve rendero' la repository pubblica
