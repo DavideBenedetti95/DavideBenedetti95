@@ -11,7 +11,7 @@ Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme 
        alt="snake" /></a>
 </div>
  
-## Qualche info in piu':
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Qualche info :
 - 🔭 Attualmente sto lavorando ad un progetto chiamato Presto.it per migliorare le mie competenze da full stack developer. A breve rendero' la repository pubblica
 
 - 🌱 Attualmente sto imparando React.
