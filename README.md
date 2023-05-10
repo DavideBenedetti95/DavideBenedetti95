@@ -12,9 +12,9 @@ Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme 
 </div>
  
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Qualche info :
-- 🔭 Ho da poco terminato il corso Hackademy di Aulab, attualmente sto facendo un refresh di Javascript per poi passare a React.
+- 🔭 Ho da poco terminato il corso Hackademy di Aulab.
 
-- 🌱 Attualmente sto imparando React.
+- 🌱 Attualmente sto approfondendo Javascript e vorrei imparare React.
 
 - 📫 Se vuoi contattarmi: davidebenedetti1995@gmail.com
 
