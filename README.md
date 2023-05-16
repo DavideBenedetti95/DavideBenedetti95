@@ -29,7 +29,7 @@ Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme 
 
 
 ## ✨ CodeWars 
-![Codewars](https://github.r2v.ch/codewars?user=IIDadoII)
+![Codewars](https://github.r2v.ch/codewars?user=IIDadoII&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 
 
