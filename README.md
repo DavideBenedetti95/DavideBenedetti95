@@ -26,6 +26,13 @@ Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme 
 
 ## 🛠 Tools 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bash)](https://skillicons.dev)
+
+
+## ✨ CodeWars 
+![Codewars](https://github.r2v.ch/codewars?user=IIDadoII)
+
+
+
 <!--
 **DavideBenedetti95/DavideBenedetti95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
