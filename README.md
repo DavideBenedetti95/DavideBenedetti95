@@ -28,6 +28,9 @@ Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme 
 ## 🛠 Tools 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bash)](https://skillicons.dev)
 
+## ⚡ CodePen 
+https://codepen.io/IIDadoII
+
 
 ## ✨ CodeWars 
 ![Codewars](https://github.r2v.ch/codewars?user=IIDadoII&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
