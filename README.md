@@ -26,7 +26,7 @@ Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
 
 ## 🛠 Tools 
-[![My Skills](https://skillicons.dev/icons?i=git,github,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bash,vite)](https://skillicons.dev)
 
 ## ⚡ CodePen 
 https://codepen.io/IIDadoII
