@@ -15,12 +15,12 @@ Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Qualche info :
 - 🔭 Ho da poco terminato il corso Hackademy di Aulab.
 
-- 🌱 Attualmente sto approfondendo Javascript e vorrei imparare React.
+- 🌱 Attualmente sto studiando React e Tailwind.
 
 - 📫 Se vuoi contattarmi: davidebenedetti1995@gmail.com
 
 ## 🛠 Front End Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react)](https://skillicons.dev)
 
 ## 🛠 Back End Skills
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
