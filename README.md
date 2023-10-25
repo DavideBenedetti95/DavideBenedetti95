@@ -3,7 +3,7 @@
 <h1 align="center">Ciao e Benvenuto sul mio profilo <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"><h1/>
 
 <p align="center">
-Sono un Full Stack Developer, le mie competenze puoi trovarle qui sotto insieme ai miei contatti e i progetti che sto portando avanti. Buon Proseguimento :star_struck: <br> 
+Sono un Web Developer, le mie competenze puoi trovarle qui sotto insieme ai miei contatti e i progetti che sto portando avanti. Buon Proseguimento :star_struck: <br> 
 </p>
 
 <div align="center">
