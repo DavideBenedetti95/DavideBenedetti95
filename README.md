@@ -14,7 +14,7 @@ Sono un Web Developer, le mie competenze puoi trovarle qui sotto insieme ai miei
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Qualche info :
 - 🔭 Ho da poco terminato il corso Hackademy di Aulab.
 
-- 🌱 Attualmente sto studiando React e Tailwind.
+- 🌱 Attualmente sto studiando React e Tailwind e l'ecosistema Wordpress / WooCommerce.
 
 - 📫 Se vuoi contattarmi: davidebenedetti1995@gmail.com
 
