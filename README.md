@@ -22,6 +22,9 @@ Sono un Web Developer, le mie competenze puoi trovarle qui sotto insieme ai miei
 ## 🛠 Tools 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bash,vite)](https://skillicons.dev)
 
+## 🖥️ CMS
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+
 ## ⚡ CodePen 
 https://codepen.io/IIDadoII
 
