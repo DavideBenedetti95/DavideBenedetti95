@@ -12,11 +12,11 @@ Sono un Web Developer, le mie competenze puoi trovarle qui sotto insieme ai miei
 </div>
  
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Qualche info :
-- 🔭 Ho da poco terminato il corso Hackademy di Aulab.
+- 🔭 Lavoro presso Agenzia Digitalia
 
-- 🌱 Attualmente sto studiando React e Tailwind e l'ecosistema Wordpress / WooCommerce.
+- 🌱 Wordpress / WooCommerce Enjoyer.
 
-- 📫 Se vuoi contattarmi: davidebenedetti1995@gmail.com
+- 📫 Se vuoi contattarmi: info@davidebenedetti.me
 
 ## 🛠 Front End Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react)](https://skillicons.dev)
@@ -33,21 +33,3 @@ https://codepen.io/IIDadoII
 
 ## ✨ CodeWars 
 ![Codewars](https://github.r2v.ch/codewars?user=IIDadoII&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
-
-
-<!--
-**DavideBenedetti95/DavideBenedetti95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
