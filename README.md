@@ -7,11 +7,9 @@ Sono un Web Developer, le mie competenze puoi trovarle qui sotto insieme ai miei
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Qualche info :
-- 🔭 Lavoro presso Agenzia Digitalia
+- 🔭 Lavoro presso Xonex Web Agency
 
-- 🌱 Wordpress / WooCommerce Enjoyer.
-
-- 📫 Se vuoi contattarmi: info@davidebenedetti.me
+- 🌱 PHP Developer - Wordpress / WooCommerce Enjoyer.
 
 ## 🛠 Front End Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react)](https://skillicons.dev)
@@ -24,10 +22,6 @@ Sono un Web Developer, le mie competenze puoi trovarle qui sotto insieme ai miei
 
 ## 🖥️ CMS
 [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
-
-## ⚡ CodePen 
-https://codepen.io/IIDadoII
-
 
 ## ✨ CodeWars 
 ![Codewars](https://github.r2v.ch/codewars?user=IIDadoII&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
